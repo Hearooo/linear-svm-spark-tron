@@ -1,2 +1,2 @@
-# spark-svm
-This is a svm classifer executed in the spark platform. Due to the high fault-tolerance and in-memory cluster compuing, spark will be a promising platform to cope with the large-scale data.
+This is a spark-linear-svm with tron method mentioned in
+C.-Y. Lin, C.-H. Tsai, C.-P. Lee, and C.-J. Lin. Large-scale Logistic Regression and Linear Support Vector Machines Using Spark, IEEE International Conference on Big Data 2014 (supplementary materials).
